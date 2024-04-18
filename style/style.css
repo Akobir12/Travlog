@@ -1,5 +1,77 @@
-@media (max-width: 900px) {
+@media (max-width: 1100px) {
     .akobir {
         flex-direction: column-reverse;
     }
+    .akobir2 {
+        width: 100%;
+        display: block;
+        align-items: center;
+    }
+    .akobir3 {
+        text-align: center;
+    }
+    .akobir4 {
+        text-align: center;
+        width: 100%;
+    }
+    .akobir6 {
+        display: block;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+    }
+    .akobir5 {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    /* section 2 start */
+    .section-2-img {
+        margin-right: 27px;
+    }
+    /* section 2 end */
+    /* Services start */
+    .servises {
+        flex-direction: column;
+    }
+    .servises-2 {
+        text-align: center;
+    }
+    /* Services end */
+    /* Carusel start */
+    .carusel {
+        text-align: center;
+    }
+    .carusel-1 {
+        margin-bottom: 50px;
+    }
+    .carusel-width {
+        width: 278px;
+        height: 575px;
+    }
+    /* Carusel end */
+    /* About start */
+    .about {
+        width: 502px;
+    }
+    /* About end */
+    /* girls part start */
+    .girls-1 {
+        flex-direction: column;
+    }
+    .girls-2 {
+        width: 100%;
+    }
+    .girls-3 {
+        width: 100%;
+    }
+    /* girls part end */
+    /* Footers start */
+    .footers-2 .footers-3 {
+        width: 1000px;
+    }
+    .footers-1 {
+        flex-direction: column;
+    }
+    /* Footers end */
 }
